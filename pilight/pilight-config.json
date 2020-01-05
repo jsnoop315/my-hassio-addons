@@ -10,7 +10,7 @@
             "webserver-root": "/usr/local/share/pilight/webgui",
             "webserver-http-port": 5001,
             "webserver-cache": 1,
-            "port": 5000,
+            "port": 5003,
             "gpio-platform": "raspberrypi3"
     },
     "hardware": {
